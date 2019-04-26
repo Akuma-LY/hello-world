@@ -16,6 +16,6 @@ $$
 边界框宽和高  
 
 $$
-height = 1.5 \times |y_{start} - y_{end}| \\
+height = 1.5 \times |y_{start} - y_{end}| \\\\
 width = 0.8 \times height
 $$  
