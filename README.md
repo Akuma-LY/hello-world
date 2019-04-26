@@ -1,11 +1,10 @@
 
 # Step4 生成边界框  
 根据$Step3$中寻找到的凸缺陷，生成边界框，边界框算法如下  
-边界框中心点$$
-\begin{bmatrix}
+边界框中心点  
+$$ \begin{bmatrix}
 x_{center}\\
-y_{center}
-\end{bmatrix}
+y_{center} \end{bmatrix}
 =
 \begin{bmatrix}
 x_{start} & x_{end} & x_{farthers}\\
