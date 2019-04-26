@@ -1,24 +1,10 @@
+
+# 机器学习-如何在github上写数学公式
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-# hello-world
-
-公式测试
-
-$$
-\begin{bmatrix}
-x_{center}\\
-y_{center}
-\end{bmatrix}
-=
-\begin{bmatrix}
-x_{start} & x_{end} & x_{farthers}\\
-y_{start} & y_{end} & y_{farthers}
-\end{bmatrix}
-$$  
-
-边界框宽和高
-
-$$
-height = 1.5 \times |y_{start} - y_{end}|\\
-width = 0.8 \times height
-$$  
+居中格式: $$xxx$$
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+靠左格式: \\(xxx\\)
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+测试
+$$\frac{7x+5}{1+y^2}$$
+\\(l(x_i) = - \log_2 P(x_i)\\)
