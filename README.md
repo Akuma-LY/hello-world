@@ -5,11 +5,6 @@
 $$ \begin{bmatrix}
 x_{center}\\
 y_{center} \end{bmatrix}
-=
-\begin{bmatrix}
-x_{start} & x_{end} & x_{farthers}\\
-y_{start} & y_{end} & y_{farthers}
-\end{bmatrix}
 $$  
 
 边界框宽和高  
